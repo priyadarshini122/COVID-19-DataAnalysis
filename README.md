@@ -1,4 +1,3 @@
-# COVID-19-DataAnalysis
 # 🦠 COVID-19 Data Visualization Dashboard using Power BI
 
 This project presents an interactive and insightful **COVID-19 dashboard** built using **Power BI**. It visualizes the spread and impact of the virus across different countries/regions using official data, offering users a comprehensive view of trends in confirmed cases, recoveries, deaths, and active cases over time.
